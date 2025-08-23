@@ -1,2 +1,2 @@
-# TrueLense-AI
+# TrueLens-AI
 Hi, We are CodAstra !
